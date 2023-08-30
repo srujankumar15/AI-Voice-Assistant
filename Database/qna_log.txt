@@ -1,0 +1,39 @@
+
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : tell me what is your name 
+A : My name is John.
+Q : what is this 
+A : This is a question.
+Q : what is this 
+A : This is a question.
+Q : what is i 
+A : I'm sorry, I don't understand what you're asking.
+Q : hello what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name now 
+A : My name is John.
+Q : what is your name now 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.
+Q : what is your name 
+A : My name is John.

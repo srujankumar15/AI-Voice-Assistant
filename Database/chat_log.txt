@@ -1,0 +1,25 @@
+
+You : Hello
+AI : Hello Sir , how are you?
+You : I am Fine
+AI : good to hear That.
+You : how are you?
+AI : Nothing out of ordinary, Thanks for asking.
+You : What is your name 
+AI : Im your AI Voice Assistant.
+
+
+You : Your name 
+AI : I am your AI Voice Assistant.
+You : What is your name 
+AI : I am your AI Voice Assistant.
+You : who is 
+AI : I am your AI Voice Assistant.
+You : who is salman khan 
+AI : Salman Khan is an Indian actor, producer, television personality, and philanthropist.
+You : who is tom cruise 
+AI : Tom Cruise is an American actor and producer.
+You : which is the national animal of india 
+AI : The national animal of India is the tiger.
+You : thank you bye 
+AI : You're welcome! Goodbye!
